@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Liu et al., "Temporal processing and context dependency in Caenorhabditis elegans response to mechanosensation". eLife, 2018. http://dx.doi.org/10.7554/eLife.36419
+
+
 Worm behavioral mapping and reverse correlation code
 ====================================================
 
